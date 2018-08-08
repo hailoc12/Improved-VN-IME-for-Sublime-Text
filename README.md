@@ -1,7 +1,6 @@
-VN-IME-for-Sublime-Text
+Bản nâng cấp VN-IME-for-Sublime-Text
 =======================
-Gõ tiếng việt trên sublime text 3 phiên bản linux
-Hiện tại đang là phiên bản thử nghiệm. Nếu phát hiện lỗi trong quá trình sử dụng, vui lòng report trên github
+Nâng cấp cho bộ Gõ tiếng Việt VN-IME-for-Sublime-Text 3 phiên bản linux tại https://github.com/glmanhtu/VN-IME-for-Sublime-Text. Xem thêm "fix.md" để biết các thay đổi
 
 Installing : 
 
